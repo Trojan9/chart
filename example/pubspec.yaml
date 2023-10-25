@@ -5,7 +5,7 @@ environment:
   flutter: '>=2.5.0'
 
 dependencies:
-  charts_flutter:
+  charts_flutter_clone:
     path: ../
   cupertino_icons: ^1.0.6
   flutter:
